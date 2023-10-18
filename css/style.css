@@ -1,0 +1,15 @@
+:root {
+    --red-color: #CF4647;
+    --yellow-color: #F5D061;
+    --white-color: #F8F6F6;
+    --black-color: #2A363B;
+
+    --primary-font: 'Playfair Display', serif;
+    --secondary-font: 'Lato', sans-serif;
+}
+
+/* navbar */
+.brand-name img{
+    width: 40px;
+    height: auto;
+}
